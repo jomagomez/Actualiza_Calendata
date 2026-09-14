@@ -10,22 +10,7 @@
   },
   "mensajes_globales": [],
   "mensajes_por_empresa": {
-    "Tipo1": [
-      {
-        "id": "tipo1-20260914-082614720",
-        "titulo": "FCC",
-        "texto": "Esto es una prueba",
-        "activo": false,
-        "obligatorio": false,
-        "prioridad": 10,
-        "fecha_inicio": "14/09/2026",
-        "fecha_fin": "21/09/2026",
-        "icono": "🔔",
-        "boton_aceptar": "Aceptar",
-        "boton_cancelar": "Mas tarde",
-        "mostrar_cancelar": false
-      }
-    ],
+    "Tipo1": [],
     "Tipo2": [],
     "Tipo3": [],
     "Tipo4": [],
